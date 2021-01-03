@@ -1,0 +1,13 @@
+h1,
+p {
+  font-family: Lato;
+}
+html,
+body {
+  min-height: 100%;
+  height: 100%;
+}
+
+button {
+  font-family: "Segoe UI Symbol";
+}
